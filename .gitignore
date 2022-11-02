@@ -3,3 +3,4 @@
 *.xls
 .env
 .csv
+/node_modules/
