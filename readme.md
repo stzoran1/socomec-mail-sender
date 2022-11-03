@@ -1,4 +1,4 @@
-# Socomec mail sender for LocalView
+# Socomec email sender for LocalView
 
 I faced issues with sending emails using the LocalView software from Socomec. 
 The LocalView was not able to send emails using the SMTP server of my ISP so I decided to write this simple script which is running in background and watching changes of Socomes log files.
