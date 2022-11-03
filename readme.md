@@ -1,14 +1,14 @@
 # Socomec email sender for LocalView
 
 I faced issues with sending emails using the LocalView software from Socomec. 
-The LocalView was not able to send emails using the SMTP server of my ISP so I decided to write this simple script which is running in background and watching changes of Socomes log files.
+The LocalView was not able to send emails using the SMTP server of my ISP, so I decided to write this simple script which is running in background and watching changes of Socomes log files.
 
-This script is just addon to LocalView service and it is not a replacement for it.
+This script is just addon to LocalView service, and it is not a replacement for it.
 
 ## Features
 
 1. Sending emails about action events recorder by LocalView
-2. Sending daily email reports containg all events and measurements from the log
+2. Sending daily email reports containing all events and measurements from the log
 
 ## Installation
 
